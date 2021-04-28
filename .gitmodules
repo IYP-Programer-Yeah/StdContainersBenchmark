@@ -1,0 +1,3 @@
+[submodule "Dependencies/benchmark"]
+	path = Dependencies/benchmark
+	url = https://github.com/google/benchmark
